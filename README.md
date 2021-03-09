@@ -3,7 +3,7 @@
 Analysing unemployment records from Centrelink to link the gap between skills and job placements.
 
 Team members:
-Diane Yaneza
+Diane Yaneza,
 Mwansa Mwango
 
 Data sources: 
