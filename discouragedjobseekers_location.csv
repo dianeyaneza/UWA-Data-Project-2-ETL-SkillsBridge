@@ -1,9 +1,9 @@
-,State/Territory,Discouraged Jobseekers
-0,New South Wales,35294.443384
-1,Victoria,29665.225257
-2,Queensland,16515.30933
-3,South Australia,5064.2871402
-4,Western Australia,11498.12884
-5,Tasmania,3687.1939088999998
-6,Northern Territory,941.0218732
-7,Australian Capital Territory,1030.6249472
+state_territory,discouraged_jobseekers
+New South Wales,35294.443384
+Victoria,29665.225257
+Queensland,16515.30933
+South Australia,5064.2871402
+Western Australia,11498.12884
+Tasmania,3687.1939088999998
+Northern Territory,941.0218732
+Australian Capital Territory,1030.6249472
