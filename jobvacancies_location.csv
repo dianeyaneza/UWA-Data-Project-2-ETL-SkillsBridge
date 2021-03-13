@@ -1,9 +1,9 @@
-,State/Territory,Job Vacancies
-0,New South Wales,62200.0
-1,Victoria,45800.0
-2,Queensland,42100.0
-3,South Australia,12500.0
-4,Western Australia,32200.000000000004
-5,Tasmania,3400.0
-6,Northern Territory,4200.0
-7,Australian Capital Territory,5600.0
+state_territory,job_vacancies
+New South Wales,62200.0
+Victoria,45800.0
+Queensland,42100.0
+South Australia,12500.0
+Western Australia,32200.000000000004
+Tasmania,3400.0
+Northern Territory,4200.0
+Australian Capital Territory,5600.0
