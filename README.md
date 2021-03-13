@@ -1,7 +1,7 @@
 # UWA-Data-Project-2-ETL-SkillsBridge
 
 ## Objective 
-Analysing records from the Australian Bureau of Statistics for the period enging August 2020, to explore the characteristics and main difficulties faced by job seekers.
+Source, prepare and create a database to aid the analysis of records from the Australian Bureau of Statistics for the period ending August 2020, to explore the characteristics and main difficulties faced by job seekers.
 
 ## Team members
 Diane Yaneza,
